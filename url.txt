@@ -1,0 +1,2 @@
+URL Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+URL Deployment: https://huggingface.co/spaces/taaratheresia/deployM2
