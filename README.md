@@ -15,8 +15,6 @@ File Descriptions
 
 There is a deployM2 folder containing scripts for deployment creation.
 
-Strengths and Limitations
-
 Strengths:
 - The project offers a systematic approach to stroke prediction, potentially aiding in preventive healthcare.
 - AdaBoost model demonstrates high recall scores, indicating its effectiveness in identifying stroke risk factors.
@@ -27,5 +25,6 @@ Limitations:
 
 
 References
-Dataset: Kaggle - Stroke Prediction Dataset
-Deployment: Hugging Face - DeployM2
+
+- Dataset: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+- Deployment: [Hugging Face - DeployM2](https://huggingface.co/spaces/taaratheresia/deployM2)https://huggingface.co/spaces/taaratheresia/deployM2
