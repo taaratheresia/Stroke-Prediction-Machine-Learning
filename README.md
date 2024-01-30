@@ -26,5 +26,5 @@ Limitations:
 
 References
 
-- Dataset: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+- Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 - Deployment: [Hugging Face - DeployM2](https://huggingface.co/spaces/taaratheresia/deployM2)https://huggingface.co/spaces/taaratheresia/deployM2
