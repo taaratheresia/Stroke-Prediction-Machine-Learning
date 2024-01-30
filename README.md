@@ -27,4 +27,4 @@ Limitations:
 References
 
 - Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-- Deployment: [Hugging Face - DeployM2](https://huggingface.co/spaces/taaratheresia/deployM2)https://huggingface.co/spaces/taaratheresia/deployM2
+- Deployment: https://huggingface.co/spaces/taaratheresia/deployM2
