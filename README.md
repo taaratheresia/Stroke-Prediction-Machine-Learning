@@ -28,3 +28,5 @@ References
 
 - Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 - Deployment: https://huggingface.co/spaces/taaratheresia/deployM2
+
+For any questions or suggestions, please contact me at taarasidabutar@gmail.com
